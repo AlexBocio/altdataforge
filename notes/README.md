@@ -3,6 +3,10 @@
 Short write-ups on point-in-time data problems. Each note states the problem, shows it on public data, and
 gives a check you can rerun.
 
+Published:
+
+- [One developer, one year, 1.8 billion rows: a point-in-time alternative-data platform](2026-10-12-one-developer-one-year.md) - 2026-10-12
+
 Planned:
 
 - **When a ticker changes hands** - how one company's history leaks into another's, and how permanent
