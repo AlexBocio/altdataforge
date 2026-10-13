@@ -2,7 +2,7 @@
 
 *Also published on [dev.to](https://dev.to/alexbsolodev/one-developer-one-year-18-billion-rows-a-point-in-time-alternative-data-platform-382l), 12 October 2026.*
 
-In the last year I built, alone, a quantitative research data platform: about 1.8 billion rows across 764 tables of alternative data, SEC filings, government records and market data, engineered to be trusted in a backtest. I am an Army veteran and self-taught. The discipline came from the work itself: 206 architecture decision records and 680 research notes, one for every problem worth not solving twice.
+In the last year I built, alone, a quantitative research data platform: about 1.8 billion rows across 764 tables of alternative data, SEC filings, government records and market data, engineered to be trusted in a backtest. I am self-taught. The discipline came from the work itself: 206 architecture decision records and 680 research notes, one for every problem worth not solving twice.
 
 The hard problems were not the ones anyone warns you about. They were data problems.
 
